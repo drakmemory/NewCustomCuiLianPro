@@ -1,0 +1,8 @@
+name: NewCustomCuiLianPro
+version: '1.1-SNAPSHOT'
+main: lvhaoxuan.custom.cuilian.NewCustomCuiLianPro
+api-version: '1.21'
+author: Anyi
+softdepend: [SX-Attribute]
+commands:
+  cuilian:
