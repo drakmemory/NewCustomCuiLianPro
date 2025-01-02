@@ -3,43 +3,43 @@
         - "§f§l✯一星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e5"
+            - "§a攻击力: §e5"
         Helmet:
-            - "§a物理防御: §e1"
+            - "§a防御力: §e1"
         Chestplate:
-            - "§a物理防御: §e1"
+            - "§a防御力: §e1"
         Leggings:
-            - "§a物理防御: §e1"
+            - "§a防御力: §e1"
         Boots:
-            - "§a物理防御: §e1"
+            - "§a防御力: §e1"
 2:
     Lore: 
         - "§f§l✯✯二星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e10"
+            - "§a攻击力: §e10"
         Helmet:
-            - "§a物理防御: §e2"
+            - "§a防御力: §e2"
         Chestplate:
-            - "§a物理防御: §e2"
+            - "§a防御力: §e2"
         Leggings:
-            - "§a物理防御: §e2"
+            - "§a防御力: §e2"
         Boots:
-            - "§a物理防御: §e2"
+            - "§a防御力: §e2"
 3:
     Lore: 
         - "§a§l✡三星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e20"
+            - "§a攻击力: §e20"
         Helmet:
-            - "§a物理防御: §e4"
+            - "§a防御力: §e4"
         Chestplate:
-            - "§a物理防御: §e4"
+            - "§a防御力: §e4"
         Leggings:
-            - "§a物理防御: §e4"
+            - "§a防御力: §e4"
         Boots:
-            - "§a物理防御: §e4"
+            - "§a防御力: §e4"
     ProtectRune:
         Type: PAPER
         Data: 0
@@ -63,15 +63,15 @@
         - "§a§l✡✯四星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e25"
+            - "§a攻击力: §e25"
         Helmet:
-            - "§a物理防御: §e5"
+            - "§a防御力: §e5"
         Chestplate:
-            - "§a物理防御: §e5"
+            - "§a防御力: §e5"
         Leggings:
-            - "§a物理防御: §e5"
+            - "§a防御力: §e5"
         Boots:
-            - "§a物理防御: §e5"
+            - "§a防御力: §e5"
     SuitEffect:
         Attribute:
         PotionEffect:
@@ -83,15 +83,15 @@
         - "§a§l✡✯✯五星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e30"
+            - "§a攻击力: §e30"
         Helmet:
-            - "§a物理防御: §e6"
+            - "§a防御力: §e6"
         Chestplate:
-            - "§a物理防御: §e6"
+            - "§a防御力: §e6"
         Leggings:
-            - "§a物理防御: §e6"
+            - "§a防御力: §e6"
         Boots:
-            - "§a物理防御: §e6"
+            - "§a防御力: §e6"
     SuitEffect:
         Attribute:
         PotionEffect:
@@ -103,15 +103,15 @@
         - "§3§l❂六星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e50"
+            - "§a攻击力: §e50"
         Helmet:
-            - "§a物理防御: §e10"
+            - "§a防御力: §e10"
         Chestplate:
-            - "§a物理防御: §e10"
+            - "§a防御力: §e10"
         Leggings:
-            - "§a物理防御: §e10"
+            - "§a防御力: §e10"
         Boots:
-            - "§a物理防御: §e10"
+            - "§a防御力: §e10"
     ProtectRune:
         Type: PAPER
         Data: 0
@@ -135,15 +135,15 @@
         - "§3§l❂✯七星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e55"
+            - "§a攻击力: §e55"
         Helmet:
-            - "§a物理防御: §e11"
+            - "§a防御力: §e11"
         Chestplate:
-            - "§a物理防御: §e11"
+            - "§a防御力: §e11"
         Leggings:
-            - "§a物理防御: §e11"
+            - "§a防御力: §e11"
         Boots:
-            - "§a物理防御: §e11"
+            - "§a防御力: §e11"
     SuitEffect:
         Attribute:
         PotionEffect:
@@ -155,15 +155,15 @@
         - "§3§l❂✯✯八星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e60"
+            - "§a攻击力: §e60"
         Helmet:
-            - "§a物理防御: §e12"
+            - "§a防御力: §e12"
         Chestplate:
-            - "§a物理防御: §e12"
+            - "§a防御力: §e12"
         Leggings:
-            - "§a物理防御: §e12"
+            - "§a防御力: §e12"
         Boots:
-            - "§a物理防御: §e12"
+            - "§a防御力: §e12"
     SuitEffect:
         Attribute:
         PotionEffect:
@@ -175,15 +175,15 @@
         - "§5§l❂✡九星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e70"
+            - "§a攻击力: §e70"
         Helmet:
-            - "§a物理防御: §e14"
+            - "§a防御力: §e14"
         Chestplate:
-            - "§a物理防御: §e14"
+            - "§a防御力: §e14"
         Leggings:
-            - "§a物理防御: §e14"
+            - "§a防御力: §e14"
         Boots:
-            - "§a物理防御: §e14"
+            - "§a防御力: §e14"
     ProtectRune:
         Type: PAPER
         Data: 0
@@ -207,15 +207,15 @@
         - "§5§l❂✡✯十星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e100"
+            - "§a攻击力: §e100"
         Helmet:
-            - "§a物理防御: §e20"
+            - "§a防御力: §e20"
         Chestplate:
-            - "§a物理防御: §e20"
+            - "§a防御力: §e20"
         Leggings:
-            - "§a物理防御: §e20"
+            - "§a防御力: §e20"
         Boots:
-            - "§a物理防御: §e20"
+            - "§a防御力: §e20"
     SuitEffect:
         Attribute:
         PotionEffect:
@@ -227,15 +227,15 @@
         - "§5§l❂✡✯✯十一星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e110"
+            - "§a攻击力: §e110"
         Helmet:
-            - "§a物理防御: §e22"
+            - "§a防御力: §e22"
         Chestplate:
-            - "§a物理防御: §e22"
+            - "§a防御力: §e22"
         Leggings:
-            - "§a物理防御: §e22"
+            - "§a防御力: §e22"
         Boots:
-            - "§a物理防御: §e22"
+            - "§a防御力: §e22"
     SuitEffect:
         Attribute:
         PotionEffect:
@@ -247,15 +247,15 @@
         - "§6§l❂❂十二星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e150"
+            - "§a攻击力: §e150"
         Helmet:
-            - "§a物理防御: §e30"
+            - "§a防御力: §e30"
         Chestplate:
-            - "§a物理防御: §e30"
+            - "§a防御力: §e30"
         Leggings:
-            - "§a物理防御: §e30"
+            - "§a防御力: §e30"
         Boots:
-            - "§a物理防御: §e30"
+            - "§a防御力: §e30"
     ProtectRune:
         Type: PAPER
         Data: 0
@@ -279,15 +279,15 @@
         - "§6§l❂❂✯十三星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e160"
+            - "§a攻击力: §e160"
         Helmet:
-            - "§a物理防御: §e32"
+            - "§a防御力: §e32"
         Chestplate:
-            - "§a物理防御: §e32"
+            - "§a防御力: §e32"
         Leggings:
-            - "§a物理防御: §e32"
+            - "§a防御力: §e32"
         Boots:
-            - "§a物理防御: §e32"
+            - "§a防御力: §e32"
     SuitEffect:
         Attribute:
         PotionEffect:
@@ -299,15 +299,15 @@
         - "§6§l❂❂✯✯十四星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e170"
+            - "§a攻击力: §e170"
         Helmet:
-            - "§a物理防御: §e34"
+            - "§a防御力: §e34"
         Chestplate:
-            - "§a物理防御: §e34"
+            - "§a防御力: §e34"
         Leggings:
-            - "§a物理防御: §e34"
+            - "§a防御力: §e34"
         Boots:
-            - "§a物理防御: §e34"
+            - "§a防御力: §e34"
     SuitEffect:
         Attribute:
         PotionEffect:
@@ -319,15 +319,15 @@
         - "§c§l❂❂✡十五星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e250"
+            - "§a攻击力: §e250"
         Helmet:
-            - "§a物理防御: §e50"
+            - "§a防御力: §e50"
         Chestplate:
-            - "§a物理防御: §e50"
+            - "§a防御力: §e50"
         Leggings:
-            - "§a物理防御: §e50"
+            - "§a防御力: §e50"
         Boots:
-            - "§a物理防御: §e50"
+            - "§a防御力: §e50"
     ProtectRune:
         Type: PAPER
         Data: 0
@@ -351,15 +351,15 @@
         - "§c§l❂❂✡✯十六星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e270"
+            - "§a攻击力: §e270"
         Helmet:
-            - "§a物理防御: §e54"
+            - "§a防御力: §e54"
         Chestplate:
-            - "§a物理防御: §e54"
+            - "§a防御力: §e54"
         Leggings:
-            - "§a物理防御: §e54"
+            - "§a防御力: §e54"
         Boots:
-            - "§a物理防御: §e54"
+            - "§a防御力: §e54"
     SuitEffect:
         Attribute:
         PotionEffect:
@@ -371,15 +371,15 @@
         - "§c§l❂❂✡✯✯十七星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e300"
+            - "§a攻击力: §e300"
         Helmet:
-            - "§a物理防御: §e60"
+            - "§a防御力: §e60"
         Chestplate:
-            - "§a物理防御: §e60"
+            - "§a防御力: §e60"
         Leggings:
-            - "§a物理防御: §e60"
+            - "§a防御力: §e60"
         Boots:
-            - "§a物理防御: §e60"
+            - "§a防御力: §e60"
     SuitEffect:
         Attribute:
         PotionEffect:
@@ -391,15 +391,15 @@
         - "§4§l❂❂❂十八星淬炼"
     Attribute:
         Hand:
-            - "§a物理伤害: §e400"
+            - "§a攻击力: §e400"
         Helmet:
-            - "§a物理防御: §e80"
+            - "§a防御力: §e80"
         Chestplate:
-            - "§a物理防御: §e80"
+            - "§a防御力: §e80"
         Leggings:
-            - "§a物理防御: §e80"
+            - "§a防御力: §e80"
         Boots:
-            - "§a物理防御: §e80"
+            - "§a防御力: §e80"
     SuitEffect:
         Attribute:
         PotionEffect:
