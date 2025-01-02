@@ -24,3 +24,22 @@
 | /cuilian set [int: 等级] | 设置强化等级 | op |
 | /cuilian stone [string: 淬炼石ID] [int: 数量] [string: 玩家] | 给予强化石 | op |
 | /cuilian protect [int: 保护符等级] [int: 数量] [string: 玩家] | 给予保护符 | op |
+
+## 范围随机数值写法
+```Yaml
+1:    
+    Lore: 
+        - "§f§l✯一星淬炼"
+    Attribute:
+        Hand:
+            - "§a攻击力: §e5-10"
+        Secondary:
+            - "§a防御力: §e5-10"
+        Helmet:
+            - "§a防御力: §e1-4"
+        Chestplate:
+            - "§a防御力: §e1-4"
+        Leggings:
+            - "§a防御力: §e1-4"
+        Boots:
+            - "§a防御力: §e1-4"
